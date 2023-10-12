@@ -1,0 +1,3 @@
+mujhe lagta hai tu sab kar lega yrr bhai tu aur looks bhi tere bhut sexy hai
+
+module.exports=abc.txt

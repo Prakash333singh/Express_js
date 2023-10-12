@@ -1,0 +1,27 @@
+const phone =[
+    {
+        id:1,
+        name:'vivo',
+        image:'https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60',
+        price:'100',
+    },
+    {
+        id:2,
+        name:'asus',
+        image:'https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60',
+        price:'1000',
+    },
+    {
+        id:3,
+        name:'mi',
+        image:'https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60',
+        price:'10000',
+    },
+    {
+        id:4,
+        name:'htc',
+        image:'https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60',
+        price:'100000',
+    }
+]
+module.exports=phone;
